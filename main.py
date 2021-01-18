@@ -9,6 +9,7 @@ from dash.dependencies import Input, Output
 # Load Data
 
 
+
 df = pd.read_csv("Expenses_Input.csv")
 
 df.head()
@@ -124,6 +125,10 @@ def trial(start_date, end_date):
 # Build App
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
+# for heroku
+server = app.server
+
+# colors being used
 colors = {
     'background':'#1f2630',
     'card_color':  '#252e3f',
