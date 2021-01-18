@@ -1,0 +1,962 @@
+Date,Mode Of Payment,Group Description,Supplier,Description,Quantity,Cost
+06/12/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa Charges Sending to Young,1,97.00
+06/12/2020,M-pesa,PC Build,Shuffle PC,PC Build - PC Case - Be Quiet Pure base 500,1,10112.00
+6/13/2020,M-pesa,PC Build,Jumia,75 in 1 Repair Tool Kit,1,3443.00
+6/26/2020,M-pesa,Electricity,KPLC,July Power,1,1200.00
+6/26/2020,M-pesa,M-pesa Charges,Safaricom,M-pesa Charges - Transfer To John,1,309.00
+6/26/2020,M-pesa,M-pesa Charges,Safaricom,Transfer To Isaac - Chama,1,97.00
+6/26/2020,M-pesa,M-pesa Charges,Safaricom,Transfer To Young - Debt Payment,1,97.00
+6/26/2020,M-pesa,PC Build,Shuffle PC,PC Build - PC Case - Be Quiet Pure base 500,1,11662.00
+6/26/2020,M-pesa,Rent,Soko H.,July Rent,1,7334.00
+6/26/2020,M-pesa,Internet and Communication,Zuku,July Internet,1,1667.00
+6/27/2020,Card,Entertainment,Java,Coffee at interview,1,660.00
+6/27/2020,M-pesa,Friends & Family,Jumia,Toaster - Contributed 2k towards a Toaster for Pesh Family ,1,2000.00
+6/27/2020,Card,Food-Non essential,Quickmart,Wine,1,1400.00
+6/27/2020,M-pesa,Transport,Uber,Uber To ABC,1,660.00
+6/27/2020,M-pesa,Transport,Uber,Uber From ABC to Town - To see Karis,1,400.00
+6/27/2020,M-pesa,Transport,Uber,Uber From Town to Home,1,580.00
+6/28/2020,M-pesa,Food-Essential,Kiosk,Food - Bread,1,50.00
+6/28/2020,Cash,Transport,Public Transport,Transport to and from Tuskys,1,100.00
+6/28/2020,Card,Food-Non essential,Quickmart,Food - Ice Cream(2),1,925.00
+6/28/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+6/28/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+6/28/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,10.00
+6/28/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+6/28/2020,Cash,Food-Non essential,Roadside Vendors,Bag,1,10.00
+6/28/2020,Cash,Food-Essential,Roadside Vendors,Chapo,5,50.00
+6/28/2020,M-pesa,Food-Essential,Sam's Fruits,Fruit Salad - To Support Sam,2,120.00
+6/28/2020,Card,Food-Non essential,Tuskys,Lettuce,1,55.00
+6/28/2020,Card,Food-Essential,Tuskys,Brookside 1ltr,1,110.00
+6/28/2020,Card,Food-Non essential,Tuskys,Juice - 1ltr,1,143.00
+6/28/2020,Card,Food-Essential,Tuskys,Drinking Chocolate,1,236.00
+6/28/2020,Card,Food-Non essential,Tuskys,Chicken Sandwich slices,3,816.00
+6/28/2020,Card,Food-Non essential,Tuskys,Sausages,1,583.00
+6/29/2020,M-pesa,Food-Essential,Butchery,Meat on bone,1,150.00
+6/29/2020,Card,Food-Non essential,Quickmart,Hotdog buns,1,55.00
+6/29/2020,M-pesa,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+6/29/2020,M-pesa,Food-Essential,Roadside Vendors,Dhania,1,10.00
+6/29/2020,M-pesa,Food-Essential,Roadside Vendors,Onion,1,10.00
+6/29/2020,M-pesa,Food-Essential,Roadside Vendors,Hoho,1,10.00
+6/29/2020,M-pesa,Food-Essential,Roadside Vendors,Minji,1,100.00
+6/29/2020,M-pesa,Food-Essential,Roadside Vendors,Waru,1,50.00
+6/29/2020,M-pesa,Internet and Communication,Safaricom,Airtime,1,500.00
+6/29/2020,M-pesa,M-pesa Charges,Safaricom,Loan To Karis,1,56.00
+6/29/2020,Card,Food-Essential,Shoprite,Basil,2,77.00
+6/29/2020,M-pesa,Transport,Uber,Uber charges - Point Mall - Garden City - Home. Going To CBA Loop,1,930.00
+6/30/2020,M-pesa,Food-Essential,Butchery,Meat on bone,1,150.00
+6/30/2020,M-pesa,Personal Care,Naivas,Deodrant,1,300.00
+6/30/2020,M-pesa,Skin Care & Hair Care,Naivas,Hair Oil,1,663.00
+6/30/2020,Direct Debit,Bank Statement Charges,NCBA Bank,June Bank charges,1,420.00
+6/30/2020,Cash,Food-Essential,Roadside Vendors,Tomatoes,6,40.00
+6/30/2020,Cash,Food-Essential,Roadside Vendors,Onion,2,20.00
+6/30/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+6/30/2020,Cash,Food-Essential,Roadside Vendors,Hoho,2,20.00
+6/30/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,10.00
+6/30/2020,M-pesa,Internet and Communication,Safaricom,Safaricom Line - Pesh 2nd Line,1,150.00
+6/30/2020,M-pesa,M-pesa Charges,Safaricom,Njeri Phone,1,67.00
+07/01/2020,Cash,Food-Essential,Kiosk,Beef cubes,4,10.00
+07/01/2020,M-pesa,Electricity,KPLC,Additional elec,1,250.00
+07/01/2020,M-pesa,Clothing,Miscellaneous supplier,T-shirt from Vinny,1,1028.00
+07/01/2020,Direct Debit,Entertainment,Netflix,Netflix subscription,1,1200.00
+07/01/2020,Cash,Food-Essential,Roadside Vendors,Sukuma spinach combo,1,40.00
+07/01/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,10.00
+07/02/2020,M-pesa,Friends & Family,Miscellaneous supplier,Njeri Phone,1,4100.00
+07/02/2020,Cash,Food-Essential,Roadside Vendors,Githeri,1,60.00
+07/02/2020,Cash,Food-Essential,Roadside Vendors,Avocado,1,40.00
+07/02/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+07/02/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+07/02/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,10.00
+07/02/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+07/03/2020,M-pesa,Food-Essential,Kiosk,Bread,1,50.00
+07/03/2020,M-pesa,Food-Non essential,Kiosk,Soda 2 Ltre,1,170.00
+07/03/2020,M-pesa,Loan Interest Expense,Safaricom,Mshwari loan interest,1,38.00
+07/03/2020,M-pesa,M-pesa Charges,Safaricom,Withdrawal charges,1,27.00
+07/04/2020,M-pesa,Food-Non essential,Kiosk,Juice - minute maid 1ltr - Gabriel Visit,2,260.00
+07/04/2020,Cash,Personal Care,Kiosk,Tissue,1,100.00
+07/04/2020,Cash,Transport,Public Transport,From new house ,1,60.00
+07/04/2020,Cash,Food-Essential,Roadside Vendors,Kitunguu,1,10.00
+07/04/2020,Cash,Food-Essential,Roadside Vendors,Garlic,2,50.00
+07/04/2020,Cash,Food-Essential,Roadside Vendors,Lemon ,1,10.00
+07/04/2020,M-pesa,M-pesa Charges,Safaricom,Withdrawal charges Mpesa - donholm ,1,27.00
+07/04/2020,M-pesa,M-pesa Charges,Safaricom,Withdrawal charges - imara,1,27.00
+07/04/2020,M-pesa,M-pesa Charges,Safaricom,Cash to Vinny,1,26.00
+07/04/2020,M-pesa,Transport,Uber,To check new house ,1,550.00
+07/06/2020,Cash,Food-Essential,Butchery,Meat on bone,1,200.00
+07/06/2020,M-pesa,Food-Essential,Kiosk,Bread,1,50.00
+07/06/2020,M-pesa,Food-Non essential,Kiosk,Juice minute maid,1,130.00
+07/06/2020,M-pesa,Food-Non essential,Quickmart,Sausages,1,583.00
+07/06/2020,M-pesa,Food-Non essential,Quickmart,Ketchup,1,170.00
+07/06/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+07/06/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+07/06/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+07/06/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,10.00
+07/07/2020,M-pesa,Friends & Family,Miscellaneous supplier,Sent money to Deacons Humphrey for mums burial ,1,1000.00
+07/07/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+07/07/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,10.00
+07/07/2020,Cash,Food-Essential,Roadside Vendors,Chapo,5,50.00
+07/07/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+07/07/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+07/07/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,20.00
+07/07/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,10.00
+07/08/2020,M-pesa,Food-Essential,Butchery,Meat(minced),1,200.00
+07/08/2020,Cash,Food-Essential,Kiosk,Milk,1,25.00
+07/08/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+07/08/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+07/08/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+07/08/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,20.00
+07/08/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,10.00
+07/08/2020,Cash,Food-Non essential,Roadside Vendors,Shopping bag,1,10.00
+07/09/2020,Cash,Food-Essential,Kiosk,Milk,1,25.00
+07/09/2020,M-pesa,Food-Non essential,Quickmart,Ice cream(175ml),1,65.00
+07/09/2020,M-pesa,Food-Non essential,Quickmart,Jawbreaker(chewing gum),1,45.00
+07/09/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+07/09/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+07/09/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+07/09/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,30.00
+07/09/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,20.00
+07/09/2020,Cash,Food-Essential,Roadside Vendors,Avocado,1,30.00
+07/09/2020,Cash,Food-Essential,Roadside Vendors,Githeri,2,60.00
+07/09/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,10.00
+07/10/2020,M-pesa,Food-Non essential,Flamegrill,Promo Pizza,2,1100.00
+07/10/2020,M-pesa,Food-Essential,Kiosk,Milk,1,25.00
+07/10/2020,M-pesa,Food-Non essential,Kiosk,Minute maid 1 ltr,1,130.00
+07/11/2020,Cash,Food-Essential,Kiosk,Maziwa,1,25.00
+07/11/2020,Cash,Food-Essential,Kiosk,Bread,1,50.00
+07/11/2020,M-pesa,Food-Non essential,Kiosk,Soda Sprite 1ltr,1,110.00
+07/11/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,6,45.00
+07/11/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,30.00
+07/11/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+07/11/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+07/11/2020,Cash,Food-Essential,Roadside Vendors,Onion,4,35.00
+07/11/2020,M-pesa,Food-Essential,Shoprite,Basil,2,76.00
+07/11/2020,M-pesa,Food-Non essential,Shoprite,Beacons Haribo Allsorts,1,130.00
+07/11/2020,M-pesa,Transport,Uber,Transport To Garden City - Window Shopping,1,430.00
+07/11/2020,M-pesa,Transport,Uber,Transport From Garden City - Window Shopping,1,370.00
+07/12/2020,Cash,Food-Essential,Kiosk,Milk,1,25.00
+07/12/2020,Cash,Clothing,Kiosk,Sewing Needle,1,5.00
+07/12/2020,Cash,Clothing,Kiosk,Sewing Thread - Black,1,30.00
+07/12/2020,M-pesa,Food-Non essential,Quickmart,Ice cream(175ml),1,65.00
+07/12/2020,M-pesa,Food-Non essential,Quickmart,Tropical Heat 100g,1,90.00
+07/12/2020,M-pesa,Food-Non essential,Quickmart,Bag,1,20.00
+07/12/2020,Cash,Food-Essential,Roadside Vendors,Avocado,1,40.00
+7/13/2020,M-pesa,Food-Essential,Kiosk,Noodles,1,30.00
+7/13/2020,M-pesa,Food-Non essential,Kiosk,Soda 1 ltr,1,110.00
+7/13/2020,M-pesa,Transport,Uber,Transport for Pesh & Purity to Kasa,1,610.00
+7/14/2020,M-pesa,Food-Essential,Kiosk,Royco sachets ,6,180.00
+7/14/2020,M-pesa,Food-Non essential,Kiosk,Soda 1ltr,1,110.00
+7/14/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,2,20.00
+7/14/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,10.00
+7/14/2020,Cash,Food-Essential,Roadside Vendors,Garlic,2,50.00
+7/14/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+7/14/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+7/14/2020,M-pesa,Internet and Communication,Safaricom,Airtime,1,10.00
+7/16/2020,Card,Food-Non essential,Quickmart,Juice 5 ltre,1,600.00
+7/16/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+7/16/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+7/16/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+7/16/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,10.00
+7/16/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa charges. Sent 2k to bank (preparation for express) ,1,34.00
+7/17/2020,M-pesa,Food-Essential,Butchery,Mince Meat,1,250.00
+7/17/2020,Direct Debit,Internet and Communication,Express VPN,Express VPN - Jul - Aug,1,1451.00
+7/17/2020,Cash,Food-Essential,Roadside Vendors,Lemon,2,20.00
+7/17/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,10.00
+7/17/2020,M-pesa,Transport,Uber,Uber for Pesh To Doni,1,600.00
+7/18/2020,M-pesa,Food-Essential,Butchery,Fries 1 Packet,1,100.00
+7/18/2020,M-pesa,Food-Essential,Kiosk,Milk,1,25.00
+7/18/2020,M-pesa,Food-Essential,Kiosk,Bread,1,50.00
+7/18/2020,M-pesa,Food-Essential,Kiosk,Eggs,30,390.00
+7/18/2020,Card,Food-Non essential,Naivas,Dairyland S Ripple,1,64.00
+7/18/2020,Card,Food-Essential,Naivas,Brown Sugar,1,210.00
+7/18/2020,Card,Food-Essential,Naivas,Royco beef cubes,1,98.00
+7/18/2020,Card,Personal Care,Naivas,Ccolgate Promo pack,1,265.00
+7/18/2020,Card,Personal Care,Naivas,Downy fabric Softener,1,443.00
+7/18/2020,Card,Food-Non essential,Naivas,Tomato Crisps,1,44.00
+7/18/2020,Cash,Transport,Public Transport,Transport To Allsops from Doni,2,140.00
+7/18/2020,Cash,Transport,Public Transport,Transport To GC from Allsops,2,80.00
+7/18/2020,Cash,Transport,Public Transport,Transport To Allsops from GC,2,40.00
+7/18/2020,Cash,Transport,Public Transport,Transport From Allsops to Doni,2,100.00
+7/18/2020,Cash,Food-Essential,Roadside Vendors,Onion,3,30.00
+7/18/2020,M-pesa,M-pesa Charges,Safaricom,Withdrawal Charges,1,27.00
+7/18/2020,Card,Food-Non essential,Shoprite,Joy Tot Berry Candy,1,100.00
+7/18/2020,Card,Food-Essential,Shoprite,Honey,1,379.00
+7/18/2020,Card,Food-Essential,Shoprite,Peptang Orange Marmalade,1,129.00
+7/18/2020,Card,Food-Non essential,Shoprite,Beef sandwich brawn,1,209.00
+7/18/2020,Card,Home Equipment,Shoprite,Whisk,1,122.00
+7/18/2020,Card,Home Equipment,Shoprite,Basting brush,1,305.00
+7/18/2020,Card,Home Equipment,Shoprite,Cork screw,1,246.00
+7/18/2020,Card,Food-Essential,Shoprite,Teabags,1,119.00
+7/18/2020,Card,Food-Essential,Shoprite,Kenchic Chicken thighs 750g,1,699.00
+7/18/2020,Card,Food-Essential,Shoprite,Vinegar,1,49.00
+7/18/2020,Card,Food-Essential,Shoprite,Worcester Sauce,1,235.00
+7/18/2020,Card,Food-Essential,Shoprite,Light Soy Sauce,1,105.00
+7/18/2020,Card,Food-Essential,Shoprite,Cheese browns mozarella,1,349.00
+7/18/2020,Card,Food-Essential,Shoprite,Sauce BBQ,1,172.00
+7/18/2020,Card,Food-Essential,Shoprite,Coffee Ground Ethiopian,1,490.00
+7/18/2020,Card,Food-Essential,Shoprite,Worcester Sauce American Garden,1,265.00
+7/18/2020,Card,Food-Essential,Zucchini,Lemons Imported,5,229.00
+7/18/2020,Card,Food-Essential,Zucchini,Oranges Imported,4,140.00
+7/19/2020,Cash,Food-Non essential,Bakery,Black Forest,1,150.00
+7/19/2020,Cash,Food-Essential,Kiosk,Milk,1,25.00
+7/19/2020,Cash,Food-Essential,Kiosk,Milk,1,25.00
+7/19/2020,Cash,Clothing,Roadside Vendors,Pairs of socks,3,150.00
+7/19/2020,Cash,Food-Essential,Roadside Vendors,Tomatoes,3,20.00
+7/19/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,25.00
+7/19/2020,Cash,Food-Essential,Roadside Vendors,Sukuma spinach combo,1,40.00
+7/19/2020,M-pesa,M-pesa Charges,Safaricom,Withdrawal Charges,1,27.00
+7/21/2020,M-pesa,Other Equipment,Miscellaneous supplier,Printing of trading books,1,3500.00
+7/22/2020,Direct Debit,Entertainment,Amazon,Amazon charge @5.99 USD,1,623.00
+7/22/2020,Cash,Food-Essential,Kiosk,Noodles,2,60.00
+7/22/2020,M-pesa,Medical,Local Chemist,Flugone,1,150.00
+7/22/2020,Cash,Transport,Public Transport,To Tuskys,2,40.00
+7/22/2020,Cash,Transport,Public Transport,From Tuskys,2,40.00
+7/22/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,6,40.00
+7/22/2020,Cash,Food-Essential,Roadside Vendors,Kitunguu,3,20.00
+7/22/2020,Cash,Food-Essential,Roadside Vendors,Ginger,1,30.00
+7/22/2020,Cash,Food-Essential,Roadside Vendors,Garlic,2,40.00
+7/22/2020,Cash,Food-Essential,Roadside Vendors,Cabbage,1,20.00
+7/22/2020,Cash,Food-Essential,Roadside Vendors,Carrot,1,5.00
+7/22/2020,M-pesa,M-pesa Charges,Safaricom,Wihdrawal charges,1,27.00
+7/22/2020,M-pesa,Food-Essential,Tuskys,Bread,1,49.00
+7/22/2020,M-pesa,Food-Essential,Tuskys,Milk,3,75.00
+7/22/2020,M-pesa,Food-Essential,Tuskys,Yoghurt,1,120.00
+7/22/2020,M-pesa,Food-Non essential,Tuskys,Cadbury Lunchbar chocolate,1,93.00
+7/22/2020,M-pesa,Food-Essential,Tuskys,Imported Lemons @399 Per kilo,1,480.00
+7/23/2020,Cash,Food-Essential,Roadside Vendors,Chapo,1,50.00
+7/23/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+7/23/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+7/24/2020,M-pesa,Food-Essential,Butchery,Take out - Supreme Fries,1,200.00
+7/25/2020,M-pesa,Food-Non essential,Bakery,Black Forest,1,150.00
+7/25/2020,M-pesa,Food-Non essential,Bakery,Butterfly,3,90.00
+7/25/2020,M-pesa,Food-Non essential,Bakery,Soda,1,70.00
+7/25/2020,M-pesa,Food-Non essential,Bakery,Bag,1,20.00
+7/26/2020,Cash,Food-Essential,Butchery,Minced meat,1,300.00
+7/26/2020,Cash,Food-Essential,Kiosk,Mik,1,25.00
+7/26/2020,Cash,Food-Essential,Kiosk,Eggs,4,48.00
+7/26/2020,Cash,Food-Non essential,Kiosk,Shopping bag,1,10.00
+7/26/2020,Cash,Transport,Public Transport,Transport to Greenspan and back,1,40.00
+7/26/2020,Cash,Food-Essential,Roadside Vendors,Garic,1,20.00
+7/26/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+7/26/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,10.00
+7/26/2020,M-pesa,Skin Care & Hair Care,Tuskys,Nuage aqueous cream 500ml,1,395.00
+7/26/2020,M-pesa,Food-Essential,Tuskys,Delmonte pinapples,2,226.00
+7/27/2020,M-pesa,PC Build,Amazon,PC Power Supply Corsair Fully Modular 550 Via Kentex Cargo (Buy Direct LTD),1,9035.00
+7/27/2020,M-pesa,M-pesa Charges,Safaricom,PC Power Suppli Via Kentex Cargo (Buy Direct LTD),1,85.00
+7/28/2020,M-pesa,Skin Care & Hair Care,Instagram Page,Cerave 562ML - from Beauty Bar Kenya,1,3550.00
+7/28/2020,Cash,Food-Essential,Quickmart,Gold crown Milk(500ml),1,70.00
+7/28/2020,Cash,Food-Essential,Roadside Vendors,Cabbage,1,20.00
+7/28/2020,Cash,Food-Essential,Roadside Vendors,Carrot,1,5.00
+7/28/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,2,20.00
+7/28/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+7/28/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+7/28/2020,Cash,Food-Essential,Roadside Vendors,Onion,3,20.00
+7/28/2020,Cash,Food-Essential,Roadside Vendors,Chapos,8,80.00
+7/29/2020,Cash,Personal Care,Kiosk,Aremis,1,80.00
+7/29/2020,Cash,Food-Essential,Roadside Vendors,Githeri,1,40.00
+7/29/2020,Cash,Food-Essential,Roadside Vendors,Avocado,1,40.00
+7/29/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,15.00
+7/29/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+07/30/2020,M-pesa,Food-Essential,Butchery,Nyama,1,200.00
+07/30/2020,M-pesa,Food-Essential,Butchery,Fries,1,100.00
+07/30/2020,M-pesa,Food-Non essential,Local Chemist,Ribena,1,220.00
+7/30/2020,M-pesa,Skin Care & Hair Care,Local Chemist,Emol B 400g,1,1500.00
+7/30/2020,Direct Debit,Bank Statement Charges,NCBA Bank,July Bank Charges,1,420.00
+07/30/2020,Cash,Food-Essential,Roadside Vendors,Spinach,1,40.00
+07/30/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,1,20.00
+07/30/2020,Cash,Food-Essential,Roadside Vendors,Kitunguu,1,20.00
+07/30/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+07/30/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+07/30/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,15.00
+07/30/2020,M-pesa,M-pesa Charges,Safaricom,Withdraw 100,1,10.00
+7/31/2020,M-pesa,Electricity,KPLC,August Elec,1,1000.00
+7/31/2020,M-pesa,Water Bill,Nairobi Water,August Water Bill,1,500.00
+7/31/2020,Direct Debit,Entertainment,Netflix,Netflix,1,1200.00
+7/31/2020,Cash,Food-Essential,Roadside Vendors,Eggs,5,60.00
+7/31/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,1,20.00
+7/31/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,15.00
+7/31/2020,Cash,Food-Non essential,Roadside Vendors,Bag,1,10.00
+7/31/2020,M-pesa,M-pesa Charges,Safaricom,Sent money to savings,1,67.00
+7/31/2020,M-pesa,Internet and Communication,Safaricom,August Internet,1,1900.00
+7/31/2020,M-pesa,Rent,Unique Court Landlord,Rent August,1,9000.00
+7/31/2020,M-pesa,Rent Deposit,Unique Court Landlord,Rent Deposit - Unique Court,1,9000.00
+08/01/2020,M-pesa,Food-Essential,Butchery,Fries For Supper,1,250.00
+08/01/2020,M-pesa,Transport,Miscellaneous supplier,"- Moving - Moving Co & Loaders (Total Bill 9120 split 3 ways)
+- Vinny For Helping move
+- Cecelia For helping move",1,3040.00
+08/02/2020,M-pesa,Home Equipment,Kamindi,"Various Supplies For Home Total Bill (9035 split 3 ways)
+- Curtain hooks, Rollers , Stoppers
+- Socket
+- Sheer Line & hooks (both wall and line hooks)
+- Padlock
+- Bed Bolts
+- Tooth Brushes",1,3012.00
+08/02/2020,M-pesa,Food-Non essential,KFC,Krusher,1,290.00
+08/02/2020,M-pesa,Friends & Family,Kiosk,Milk - Visiting Geoff,1,50.00
+08/02/2020,M-pesa,Friends & Family,Kiosk,Sugar - Visiting Geoff,1,143.00
+08/02/2020,M-pesa,Home Equipment,Kiosk,Manilla Paper,1,135.00
+08/02/2020,M-pesa,Food-Essential,Kiosk,Noodles,1,105.00
+08/02/2020,M-pesa,Home Equipment,Roadside Vendors,Sheers,1,1978.00
+08/02/2020,M-pesa,Home Equipment,Roadside Vendors,Curtains,1,2428.00
+08/02/2020,M-pesa,M-pesa Charges,Safaricom,Curtains,1,41.00
+08/02/2020,M-pesa,M-pesa Charges,Safaricom,Curtains,1,41.00
+08/02/2020,M-pesa,Friends & Family,Sam's Fruits,Oranges - Visiting Geoff,11,83.00
+08/02/2020,M-pesa,Friends & Family,Sam's Fruits,Tangerines - Visiting Geoff,5,95.00
+08/02/2020,M-pesa,Friends & Family,Sam's Fruits,Apples - Visiting Geoff,10,125.00
+08/02/2020,M-pesa,Friends & Family,Sam's Fruits,Bananas - Visiting Geoff,5,100.00
+08/02/2020,M-pesa,Food-Essential,Sam's Fruits,Oranges,1,83.00
+08/02/2020,M-pesa,Food-Essential,Sam's Fruits,Apples,1,95.00
+08/02/2020,M-pesa,Home Equipment,Tuskys,Dish Soap,1,200.00
+08/02/2020,M-pesa,Food-Essential,Tuskys,Drinking Water,1,187.00
+08/02/2020,M-pesa,Food-Non essential,Tuskys,Shopping bag,1,50.00
+08/02/2020,M-pesa,Transport,Uber,Uber to Geof To Kangundo road,1,400.00
+08/02/2020,M-pesa,Transport,Uber,Uber from Geof visit from Kangundo road,1,580.00
+08/03/2020,M-pesa,Home Equipment,Kiosk,Hanging Line,1,200.00
+08/03/2020,Cash,Food-Essential,Kiosk,Milk,2,46.00
+08/03/2020,Cash,Food-Essential,Kiosk,Bread,1,50.00
+08/03/2020,Cash,Food-Essential,Kiosk,Eggs,10,110.00
+08/03/2020,Cash,Home Equipment,Kiosk,Hooks,20,70.00
+08/03/2020,M-pesa,Home Equipment,Roadside Vendors,Sheers,2,1230.00
+08/03/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,6,40.00
+08/03/2020,Cash,Food-Essential,Roadside Vendors,Onion,3,20.00
+08/03/2020,M-pesa,M-pesa Charges,Safaricom,Milk,1,26.00
+08/03/2020,M-pesa,M-pesa Charges,Safaricom,Withdrawal,1,27.00
+08/04/2020,M-pesa,Food-Essential,Butchery,Meat on bone,1,300.00
+08/04/2020,Cash,Home Equipment,Kiosk,Mosquito Coil,2,100.00
+08/04/2020,Cash,Home Equipment,Kiosk,Mosquito Coil Alternative,3,30.00
+08/04/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+08/04/2020,Cash,Food-Essential,Roadside Vendors,Onion,2,10.00
+08/04/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+08/04/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+08/04/2020,M-pesa,Home Equipment,Roadside Vendors,Key Cutting,2,1400.00
+08/04/2020,M-pesa,M-pesa Charges,Safaricom,Withdraw Mpesa,1,10.00
+08/04/2020,M-pesa,M-pesa Charges,Safaricom,Sent to John For Keys,1,26.00
+08/04/2020,M-pesa,M-pesa Charges,Safaricom,Sent money to savings,1,56.00
+08/04/2020,M-pesa,Transport,Uber,Uber For The Best Girlfriend in the World although she should have just stayed with me because i love her so much and she's the best girlfriend in the world but she left and she doesnt love me anymore,1,610.00
+08/05/2020,M-pesa,M-pesa Charges,Safaricom,Sent Savings to NCBA,1,67.00
+08/06/2020,M-pesa,Home Equipment,Kiosk,Gas Cylinder Split 50/50 with Pinye,1,1000.00
+08/06/2020,M-pesa,Electricity,KPLC,Replenish Units for Shower,1,100.00
+08/06/2020,Card,Home Equipment,Mulleys Transami,Supabrite Pan Scrubber,1,100.00
+08/06/2020,Card,Personal Care,Mulleys Transami,Face Towel,1,75.00
+08/06/2020,Card,Home Equipment,Mulleys Transami,Hanging Line (Thin 20metres),2,370.00
+08/06/2020,Card,Food-Essential,Mulleys Transami,Lactose free milk,1,160.00
+08/06/2020,Card,Food-Essential,Mulleys Transami,Fresh fry cooking oil,1,68.00
+08/06/2020,Card,Food-Non essential,Mulleys Transami,Highlands orange Cordial,1,600.00
+08/06/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+08/06/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,10.00
+08/06/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+08/06/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,5.00
+08/06/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,20.00
+08/06/2020,Cash,Food-Non essential,Roadside Vendors,Bag,1,10.00
+08/06/2020,M-pesa,M-pesa Charges,Safaricom,Bag,1,2.00
+08/07/2020,M-pesa,Electricity,KPLC,Replenish Units for Shower,1,100.00
+08/07/2020,M-pesa,M-pesa Charges,Safaricom,Replenish Units for Shower,1,2.00
+08/08/2020,M-pesa,Food-Essential,Roadside Vendors,Sent Mum for rice from Mwea - 20kg @ 130,20,2600.00
+08/08/2020,M-pesa,Food-Essential,Roadside Vendors,"Goat Leg, Ribs & Avocados send via Sendy From Mum",1,781.00
+08/08/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,2,25.00
+08/08/2020,Cash,Food-Essential,Roadside Vendors,Kitunguu,2,20.00
+08/08/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+08/08/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,5.00
+08/08/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,20.00
+08/08/2020,Cash,Food-Essential,Roadside Vendors,Ginger,1,10.00
+08/08/2020,M-pesa,Loan Interest Expense,Safaricom,Fuliza Fee,1,5.00
+08/08/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa Witdrawal charges,1,27.00
+08/08/2020,M-pesa,Internet and Communication,Safaricom,Airtime for Pesh,1,500.00
+08/09/2020,Cash,Food-Essential,Kiosk,Eggs,1,44.00
+08/09/2020,M-pesa,Food-Essential,Mulleys Transami,Bread,1,49.00
+08/09/2020,M-pesa,Food-Essential,Mulleys Transami,Spaghetti,1,275.00
+08/09/2020,M-pesa,Food-Non essential,Mulleys Transami,Cinamon Sticks,1,78.00
+08/09/2020,M-pesa,Personal Care,Mulleys Transami,Plastic Cap,1,41.00
+08/09/2020,Cash,Home Equipment,Tuskys,Cello Tape,1,33.00
+08/09/2020,M-pesa,Transport,Uber,Uber Transport Pesh To Imara from Hildah,1,550.00
+08/10/2020,M-pesa,Electricity,KPLC,Replenish Units for Shower,1,250.00
+08/10/2020,Cash,Food-Essential,Roadside Vendors,Ndengu,1,65.00
+08/10/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,2,20.00
+08/10/2020,Cash,Food-Essential,Roadside Vendors,Vitunguu,2,20.00
+08/10/2020,Cash,Food-Essential,Roadside Vendors,Potatoes,5,20.00
+08/10/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,20.00
+08/10/2020,Cash,Food-Essential,Roadside Vendors,Ginger,1,20.00
+08/10/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+08/10/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,15.00
+08/10/2020,M-pesa,M-pesa Charges,Safaricom,Lemon,1,23.00
+08/11/2020,Cash,Food-Essential,Kiosk,Bread,1,50.00
+08/11/2020,Cash,Home Equipment,Kiosk,Tissues,2,50.00
+08/11/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+08/11/2020,Cash,Food-Essential,Roadside Vendors,Eggs,15,180.00
+08/11/2020,Cash,Food-Essential,Roadside Vendors,Cabbage,1,20.00
+08/11/2020,Cash,Food-Essential,Roadside Vendors,Lemons,1,20.00
+08/11/2020,Cash,Food-Essential,Roadside Vendors,Carrot,1,5.00
+08/11/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+08/11/2020,M-pesa,M-pesa Charges,Safaricom,Withdraw,1,27.00
+08/12/2020,Cash,Food-Essential,Roadside Vendors,Githeri,1,30.00
+08/12/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,2,20.00
+08/12/2020,Cash,Food-Essential,Roadside Vendors,Vitunguu,2,10.00
+08/12/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+08/12/2020,M-pesa,M-pesa Charges,Safaricom,Dhania,1,23.00
+08/12/2020,M-pesa,Friends & Family,Zuku,Internet Bill - Pesh & Family,1,2456.00
+8/13/2020,M-pesa,Food-Essential,Local Eatery,Fries *2,2,180.00
+8/14/2020,M-pesa,M-pesa Charges,Kiosk,Mpesa Charges withdrawing 100bob for nyanya,1,10.00
+8/14/2020,M-pesa,Food-Essential,Local Eatery,Fries *2,2,180.00
+8/14/2020,M-pesa,Food-Essential,Local Eatery,Sausage,1,40.00
+8/14/2020,M-pesa,Food-Essential,Roadside Vendors,Nyanya,2,20.00
+8/14/2020,M-pesa,Food-Non essential,Roadside Vendors,Shopping bag,1,10.00
+8/15/2020,M-pesa,Food-Essential,Kiosk,Eggs,10,126.00
+8/15/2020,M-pesa,Food-Essential,Mulleys Transami,Fresh fry cooking oil-2L,1,392.00
+8/15/2020,M-pesa,Food-Essential,Mulleys Transami,Bbq Sauce,1,356.00
+8/15/2020,M-pesa,Food-Essential,Mulleys Transami,Zesta Orange Marmalade,1,246.00
+8/15/2020,M-pesa,Food-Essential,Nawiri Kuku Shop,Chicken Drumstick-1kg,1,550.00
+8/16/2020,M-pesa,Electricity,KPLC,Replenish Units for Shower,1,150.00
+8/16/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,5,20.00
+8/16/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,20.00
+8/16/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,25.00
+8/16/2020,Cash,Food-Essential,Roadside Vendors,Ginger,1,10.00
+8/16/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+8/16/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+8/16/2020,Cash,M-pesa Charges,Safaricom,Dhania,1,23.00
+8/17/2020,Direct Debit,Internet and Communication,Express VPN,Express VPN Aug - Sep Subscription,1,1462.00
+8/17/2020,M-pesa,Skin Care & Hair Care,Instagram Page,Biore Sunscreen 50g - From Dreamskin Haven,1,2100.00
+8/17/2020,Cash,Food-Essential,Roadside Vendors,Potatoes,1,20.00
+8/17/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,5.00
+8/17/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,1,5.00
+8/17/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+8/17/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+8/18/2020,M-pesa,Food-Essential,Roadside Vendors,Eggs,10,110.00
+8/18/2020,Cash,Food-Essential,Roadside Vendors,Spinach,1,20.00
+8/18/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,4,20.00
+8/18/2020,Cash,Food-Essential,Roadside Vendors,Onions,1,5.00
+8/19/2020,Cash,Food-Essential,Butchery,Minced meat,1,200.00
+8/19/2020,Cash,Food-Non essential,Roadside Vendors,Dates,1,150.00
+8/19/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,15.00
+8/19/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,15.00
+8/19/2020,Cash,Food-Essential,Roadside Vendors,Tomatoes,6,30.00
+8/19/2020,Cash,Food-Essential,Roadside Vendors,Onions,2,10.00
+8/19/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+8/19/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,5.00
+8/19/2020,M-pesa,M-pesa Charges,Safaricom,Pesh Withdraw 1k for the week,1,28.00
+8/20/2020,M-pesa,Personal Care,Mulleys Transami,Jumbo Toilet paper,1,78.00
+8/20/2020,M-pesa,Home Equipment,Mulleys Transami,Mug,1,74.00
+8/20/2020,M-pesa,Home Equipment,Mulleys Transami,Water bottle,1,260.00
+8/20/2020,M-pesa,Food-Essential,Mulleys Transami,Santa Lucia I kg,1,275.00
+8/20/2020,M-pesa,Food-Essential,Mulleys Transami,Gold crown Milk(500ml),1,160.00
+8/20/2020,Cash,Food-Essential,Roadside Vendors,Githeri,1,30.00
+8/20/2020,Cash,Food-Essential,Roadside Vendors,Onions,1,5.00
+8/20/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,5.00
+8/20/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+8/20/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,10.00
+8/21/2020,M-pesa,Electricity,KPLC,Replenish Units for Shower,1,250.00
+8/21/2020,M-pesa,Friends & Family,Miscellaneous supplier,Fixing Njeri's Laptop @ Kamakias Technician,1,1050.00
+8/21/2020,Cash,Food-Essential,Roadside Vendors,Beans,1,45.00
+8/21/2020,Cash,Food-Essential,Roadside Vendors,Tomatoes,3,15.00
+8/21/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,5.00
+8/21/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,15.00
+8/21/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,10.00
+8/21/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,5.00
+8/21/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+8/21/2020,Cash,Food-Non essential,Roadside Vendors,Dates,1,150.00
+8/21/2020,M-pesa,M-pesa Charges,Safaricom,Replenish Units for Shower,1,23.00
+8/22/2020,Direct Debit,Entertainment,Amazon,Amazon charge @5.99 USD,1,623.00
+8/22/2020,M-pesa,Transport,Uber,Uber - Pesh - Imara to Umoja (Hildah),1,240.00
+8/23/2020,M-pesa,Electricity,KPLC,Replenish Units for Shower,1,200.00
+8/23/2020,M-pesa,Food-Non essential,Local Eatery,Soda 500 ml,1,80.00
+8/23/2020,M-pesa,Food-Non essential,Mulleys Transami,Dairyland ice-cream vanilla,1,380.00
+8/23/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+8/23/2020,Cash,Food-Essential,Roadside Vendors,Onion,2,10.00
+8/23/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+8/23/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,5.00
+8/23/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,20.00
+8/23/2020,Cash,Food-Essential,Roadside Vendors,Lemon,1,20.00
+8/23/2020,Cash,Food-Essential,Roadside Vendors,Ginger,1,10.00
+8/23/2020,M-pesa,Food-Essential,Roadside Vendors,Fries,1,90.00
+8/23/2020,M-pesa,M-pesa Charges,Safaricom,Replenish Units for Shower,1,23.00
+8/23/2020,M-pesa,Food-Essential,Sam's Fruits,Fruits- Tanagerines and apples,1,360.00
+8/23/2020,M-pesa,Transport,Uber,Transport - Pesh from Umoja to Imara (Hildah),1,490.00
+8/24/2020,Cash,Food-Essential,Local Eatery,Fries For lunch,1,90.00
+8/24/2020,Card,Other Equipment,Miniso,Earphones,1,309.00
+8/24/2020,M-pesa,Food-Essential,Mulleys Transami,Java Africa Blend Coffee 375g,1,590.00
+8/24/2020,M-pesa,Home Equipment,Mulleys Transami,Doom Socket mosquito repellant,1,570.00
+8/24/2020,M-pesa,Home Equipment,Mulleys Transami,Moskill mosquito coil,2,80.00
+8/24/2020,M-pesa,Food-Essential,Mulleys Transami,Bread,1,49.00
+8/24/2020,M-pesa,Other Equipment,Mulleys Transami,Surgical Spirit,1,185.00
+8/24/2020,Cash,Food-Essential,Roadside Vendors,Dates,1,120.00
+8/24/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,1,20.00
+8/24/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+8/24/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+8/24/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,10.00
+8/24/2020,Cash,Food-Essential,Roadside Vendors,Eggs,4,44.00
+8/25/2020,M-pesa,Electricity,KPLC,Units,12.82,200.00
+8/25/2020,M-pesa,Food-Essential,Local Eatery,Fries *2 & Sausage,2,220.00
+8/26/2020,M-pesa,Food-Essential,Local Eatery,Fries *2 & Sausage,2,220.00
+8/26/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,15.00
+8/26/2020,Cash,Food-Essential,Roadside Vendors,Onion,2,20.00
+8/26/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+8/26/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,5.00
+8/26/2020,Cash,Food-Essential,Roadside Vendors,Ginger,1,5.00
+8/26/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,15.00
+8/26/2020,M-pesa,Loan Interest Expense,Safaricom,Fuliza Fee,1,3.00
+8/26/2020,M-pesa,Internet and Communication,Safaricom,Airtime for Pesh,1,500.00
+8/26/2020,M-pesa,Transport,Uber,Uber Pesh To Imara,1,640.00
+8/27/2020,Cash,Food-Non essential,Kiosk,Soda Small 350ml,1,40.00
+8/27/2020,M-pesa,Friends & Family,Miscellaneous supplier,Loan to Amos - DKL,1,227.00
+8/27/2020,Cash,Transport,Public Transport,Transport to Town - CNN Wakili Advocates - Case hearing,1,70.00
+8/27/2020,Cash,Transport,Public Transport,Transport fromWestie to Town - CNN Wakili Advocates - Case hearing,1,30.00
+8/27/2020,Cash,Transport,Public Transport,Transport fromWestie to Town - CNN Wakili Advocates - Case hearing,1,70.00
+8/27/2020,M-pesa,M-pesa Charges,Safaricom,Withdraw Cash frm Mpesa,1,27.00
+8/27/2020,M-pesa,Transport,Uber,Uber From Town to Westlands CNN Wakili Advocates - Case hearing,1,280.00
+8/28/2020,M-pesa,Friends & Family,Instagram Page,"Birthday present for Mkash Plus Cake from Mbeyu. Cost Shared Me Mum & Andrew 
+
+Instagram Page Present Cost = 4,600
+Mbeyu Kijuu Cake & Flowers = 4300
+Reimbursement received from Mum = 6000
+",1,2900.00
+8/28/2020,M-pesa,Electricity,KPLC,Elec September,1,1000.00
+8/28/2020,M-pesa,Water Bill,Nairobi Water,Water,1,500.00
+8/28/2020,M-pesa,Internet and Communication,Safaricom,Sept Internet,1,1900.00
+8/28/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa Charges for transfer to Savings,1,56.00
+8/28/2020,M-pesa,Rent,Unique Court Landlord,September Rent & Service Charge,1,9000.00
+8/29/2020,Cash,Food-Essential,Kiosk,Eggs,3,33.00
+8/29/2020,Cash,Food-Essential,Kiosk,Noodles,1,30.00
+8/29/2020,Cash,Food-Non essential,Kiosk,Soda Small 350ml,1,50.00
+8/29/2020,M-pesa,Friends & Family,Miscellaneous supplier,Cake For Kui And Kago - Bought From Purity,1,2100.00
+8/30/2020,M-pesa,Transport,Uber,Transport From Imara to Runda,1,770.00
+8/30/2020,M-pesa,Transport,Uber,Transport From South B to Imara,1,290.00
+8/31/2020,M-pesa,Friends & Family,Jumia,Flash Disk for Mum - For music in her car + Delivery,1,918.00
+8/31/2020,Direct Debit,Bank Statement Charges,NCBA Bank,August Bank charges,1,420.00
+8/31/2020,M-pesa,Medical,Optician,Specs = Frames & Lenses,1,4100.00
+8/31/2020,M-pesa,Medical,Optician,Specs = Consultation,1,1528.00
+09/01/2020,M-pesa,Friends & Family,Miscellaneous supplier,Loan To Karis,1,3000.00
+09/02/2020,M-pesa,Friends & Family,Miscellaneous supplier,Cash to Bugs for use of his car to take Julia to Hospital,1,1000.00
+09/02/2020,M-pesa,Transport,Uber,Uber from Imara to Greenspan to take Julia to Hospital,1,290.00
+09/02/2020,M-pesa,Transport,Uber,Uber from Getrudes to Imara,1,750.00
+09/04/2020,Cash,Food-Non essential,Kiosk,Small soda,1,40.00
+09/04/2020,Cash,Food-Non essential,Kiosk,Half litre soda,1,70.00
+09/04/2020,Cash,Transport,Kiosk,Matatu from Imara to town,1,50.00
+09/04/2020,Cash,Food-Essential,Local Eatery,Fries ,1,90.00
+09/04/2020,Cash,Food-Non essential,Local Eatery,bag,1,10.00
+09/04/2020,M-pesa,M-pesa Charges,Safaricom,witdrawal charges,1,10.00
+09/04/2020,M-pesa,Food-Non essential,Savanna,Mocha,1,250.00
+09/05/2020,M-pesa,Transport,Bolt,Uber for Pesh from Kasarani to Imara Daima,1,980.00
+09/05/2020,M-pesa,Travel,Java,Java breakfast brownie,1,190.00
+09/05/2020,M-pesa,Travel,Java,Java eggs and toast,1,380.00
+09/05/2020,M-pesa,Travel,Java,Java chai Latte single,1,260.00
+09/05/2020,M-pesa,Travel,Java,Java Cappuccino double,1,280.00
+09/05/2020,M-pesa,Other Equipment,Kiosk,Aux Cable,1,500.00
+09/05/2020,M-pesa,Travel,Petrol Station,"Chocolate
+Redbull
+Monister
+Crisps
+Skittles
+Peanuts
+Reusable bag",1,1020.00
+09/05/2020,Cash,Travel,Private/Public Parking,Southfield Mall parking,1,50.00
+09/05/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa charges,1,5.00
+09/05/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa charges,1,85.00
+09/05/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa Charges,1,34.00
+09/05/2020,M-pesa,Travel,Sweet Lodge Naivasha,B&B accommodation Naivasha Sweet lodge,1,7000.00
+09/05/2020,M-pesa,Travel,Travel Eateries,"{Ranch House Bistro Naivasha} - Meal For 2
+
+Loved it!! 5 Stars",1,4150.00
+09/06/2020,M-pesa,Other Equipment,Carrefour,Bath Accessory - Red one for feets,1,284.00
+09/06/2020,M-pesa,Other Equipment,Carrefour,Bath Accessory - Pink one,1,210.00
+09/06/2020,M-pesa,Food-Essential,Carrefour,Melvins Ginger Tea,1,117.00
+09/06/2020,M-pesa,Food-Essential,Carrefour,Assorted Tea Flavours,1,514.00
+09/06/2020,M-pesa,Food-Essential,Carrefour,Katupei BBQ Sauce,1,284.00
+09/06/2020,M-pesa,Food-Essential,Carrefour,Honey,1,441.00
+09/06/2020,M-pesa,Food-Non essential,Carrefour,Worst Ice cream in the world test taste,1,44.00
+09/06/2020,M-pesa,Food-Non essential,Carrefour,Lion Shopping Bag,1,39.00
+09/06/2020,M-pesa,Friends & Family,Miscellaneous supplier,Captioning Account - Njeri - Bought from Kanana,1,5000.00
+09/06/2020,Cash,Transport,Private/Public Parking,Two rivers Parking,1,100.00
+09/06/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa Charges,1,34.00
+09/06/2020,M-pesa,Travel,Travel Eateries,"{Ranch House Bistro Naivasha} - Meal For 2
+
+Loved it!! 5 Stars",1,4000.00
+09/07/2020,M-pesa,Food-Essential,Kiosk,Bread,1,50.00
+09/07/2020,M-pesa,Food-Essential,Kiosk,Eggs,4,50.00
+09/07/2020,Cash,Personal Care,Kiosk,Tissue big,1,100.00
+09/07/2020,Cash,Personal Care,Kiosk,Tissue small,1,25.00
+09/07/2020,M-pesa,Food-Essential,Roadside Vendors,Chapo,10,100.00
+09/07/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,20.00
+09/07/2020,Cash,Food-Essential,Roadside Vendors,Ginger,1,10.00
+09/07/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+09/07/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+09/07/2020,M-pesa,M-pesa Charges,Safaricom,witdrawal charges,1,28.00
+09/07/2020,M-pesa,Travel,Uber,Uber from Runda to Home {Returning car from road trip},1,760.00
+09/08/2020,Cash,Food-Essential,Butchery,Minced meat,1,200.00
+09/08/2020,M-pesa,PC Build,Kentex Cargo,PC Power Supply Corsair Fully Modular 550 Via Kentex Cargo (Buy Direct LTD) Bought From Amazon,1,4512.00
+09/08/2020,M-pesa,M-pesa Charges,Kentex Cargo,PC Power Supply Corsair Fully Modular 550 Via Kentex Cargo (Buy Direct LTD) Bought From Amazon,1,54.00
+09/08/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+09/09/2020,M-pesa,Food-Non essential,Kiosk,Soda,1,180.00
+09/09/2020,M-pesa,Home Equipment,Kiosk,Serviettes ,2,160.00
+09/09/2020,Cash,Food-Essential,Roadside Vendors,Eggs,10,110.00
+09/09/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+09/09/2020,M-pesa,M-pesa Charges,Safaricom,Withdraw Cash frm Mpesa,1,27.00
+09/10/2020,Cash,Food-Essential,Local Eatery,Fries,1,90.00
+09/10/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+09/10/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+09/10/2020,Cash,Food-Essential,Roadside Vendors,Milk,1,25.00
+09/11/2020,M-pesa,Food-Essential,Butchery,Nyama,1,200.00
+09/11/2020,M-pesa,Food-Non essential,Java,Java - House Coffee,1,210.00
+09/11/2020,M-pesa,Food-Non essential,Java,Java - Brownie,1,190.00
+09/11/2020,M-pesa,Food-Non essential,Java,Java - Juice,1,310.00
+09/11/2020,M-pesa,Food-Essential,Kiosk,Milk,1,25.00
+09/11/2020,M-pesa,Food-Essential,Roadside Vendors,Minji,1,30.00
+09/11/2020,M-pesa,Food-Essential,Roadside Vendors,Garlic,1,20.00
+09/11/2020,M-pesa,Food-Essential,Roadside Vendors,Potatoes,6,50.00
+09/11/2020,M-pesa,Food-Non essential,Roadside Vendors,Shopping bag,1,10.00
+09/11/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+09/12/2020,Card,Home Equipment,Miscellaneous supplier,Morning fresh - dishwashing,1,200.00
+09/12/2020,Card,Food-Essential,Miscellaneous supplier,Santa Lucia I kg,1,275.00
+09/12/2020,Card,Food-Essential,Mulleys Transami,Gold crown Milk(500ml),1,160.00
+09/12/2020,M-pesa,Food-Essential,Nawiri Kuku Shop,Chicken Drumstick - Half KG (6 drumsticks),6,270.00
+09/12/2020,M-pesa,Investment,Rev Account,Bought Rev Account From Kanana,1,12350.00
+09/12/2020,M-pesa,Loan Interest Expense,Safaricom,Fuliza Fee,1,3.00
+09/12/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa Charges,1,97.00
+9/13/2020,M-pesa,Personal Care,Mulleys Transami,Hand washing soap,1,200.00
+9/13/2020,M-pesa,Home Equipment,Mulleys Transami,Kitchen Towels Velvex twin pack,2,498.00
+9/13/2020,M-pesa,Food-Non essential,Mulleys Transami,Dairyland ice-cream vanilla,1,195.00
+9/13/2020,M-pesa,Food-Essential,Mulleys Transami,Nuteez Peanut Butter,1,125.00
+9/13/2020,M-pesa,Food-Essential,Mulleys Transami,Dates 500g,1,180.00
+9/13/2020,M-pesa,Food-Essential,Mulleys Transami,Raisins,2,90.00
+9/13/2020,M-pesa,Home Equipment,Mulleys Transami,Moskill Liquid Refill,1,270.00
+9/13/2020,M-pesa,Home Equipment,Mulleys Transami,Shopping bag,1,20.00
+9/13/2020,M-pesa,Food-Essential,Roadside Vendors,Potatoes,6,100.00
+9/13/2020,M-pesa,Food-Non essential,Roadside Vendors,Shopping bag,1,10.00
+9/15/2020,Cash,Food-Essential,Kiosk,Bread,1,50.00
+9/15/2020,Cash,Food-Essential,Roadside Vendors,Avocado,2,50.00
+9/15/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+9/15/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+9/16/2020,Cash,Food-Essential,Butchery,Matumbo,1,150.00
+9/16/2020,Cash,Food-Essential,Roadside Vendors,Sukuma/Spinach,1,20.00
+9/16/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+9/17/2020,Direct Debit,Internet and Communication,Express VPN,Express VPN Sep - Oct Subscription,1,1467.00
+9/17/2020,Cash,Food-Essential,Roadside Vendors,Tomatoes,1,20.00
+9/17/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+9/18/2020,M-pesa,Food-Non essential,KFC,Milkshake,1,290.00
+9/18/2020,Cash,Food-Essential,Kiosk,Milk Small,1,25.00
+9/18/2020,Cash,Food-Essential,Roadside Vendors,Carrot,1,5.00
+9/18/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+9/18/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+9/18/2020,M-pesa,Food-Essential,Roadside Vendors,Maandazi,1,30.00
+9/18/2020,M-pesa,Food-Essential,Roadside Vendors,Chapati,1,100.00
+9/18/2020,M-pesa,M-pesa Charges,Safaricom,Withdrawal charges,1,27.00
+9/18/2020,M-pesa,M-pesa Charges,Safaricom,Pesh NHIF Penalty Mpesa Charges,1,23.00
+9/18/2020,M-pesa,Food-Non essential,Savanna,Mocha,1,250.00
+9/19/2020,M-pesa,Medical,NHIF,Pesh NHIF Penalty,1,1250.00
+9/20/2020,M-pesa,Food-Essential,Butchery,Pork approx. 1.2 kg {4 spare ribs},4,830.00
+9/20/2020,M-pesa,Food-Essential,Kiosk,Honey,1,395.00
+9/20/2020,M-pesa,Food-Essential,Kiosk,Bread,1,50.00
+9/20/2020,M-pesa,Food-Non essential,Kiosk,Soda 2 ltre,1,180.00
+9/20/2020,M-pesa,Food-Non essential,Local Eatery,Eating out- Pesh,1,1550.00
+9/20/2020,Cash,Transport,Public Transport,Travel to and from Two Rivers,1,200.00
+9/20/2020,M-pesa,Food-Essential,Roadside Vendors,Garlic,1,20.00
+9/21/2020,Cash,Food-Essential,Kiosk,Milk- 250ml,2,50.00
+9/21/2020,M-pesa,Food-Essential,Kiosk,Peanut Butter,1,180.00
+9/22/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,1,20.00
+9/22/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+9/22/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+9/22/2020,Cash,Food-Essential,Roadside Vendors,Milk,1,20.00
+9/23/2020,Cash,Entertainment,Amazon,Amazon charge @5.99 USD,1,671.00
+9/23/2020,M-pesa,Transport,Uber,Transport,1,680.00
+9/24/2020,M-pesa,Food-Non essential,Kiosk,Soda 2ltr,1,180.00
+9/24/2020,M-pesa,Food-Essential,Local Eatery,Fries,1,90.00
+9/24/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,2,10.00
+9/24/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,10.00
+9/24/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,15.00
+9/24/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,5.00
+9/24/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+9/24/2020,M-pesa,M-pesa Charges,Safaricom,Withdrawal charges,1,28.00
+9/25/2020,Direct Debit,Skin Care & Hair Care,Online Supplier,Skin care - Sun screen,1,6902.00
+9/26/2020,Card,Food-Non essential,Mulleys Transami,Juice Highlands 5ltre ,1,600.00
+9/26/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,30.00
+9/26/2020,Cash,Food-Essential,Roadside Vendors,Spring Onion,1,5.00
+9/26/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,20.00
+9/26/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa Charges For Telkom Purchase for Pinye,1,23.00
+9/26/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa Charges To car repair guy ,1,23.00
+9/27/2020,Cash,Food-Essential,Kiosk,Bread,1,50.00
+9/27/2020,M-pesa,Investment,Rev Account,Balance for initial account Pesh,1,5000.00
+9/27/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+9/27/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,10.00
+9/27/2020,Cash,Food-Essential,Roadside Vendors,Avocado,1,30.00
+9/27/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+9/27/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+9/28/2020,M-pesa,Electricity,KPLC,Replenish Elec Units for shower,1,150.00
+9/30/2020,M-pesa,Electricity,KPLC,Oct Elec,1,1000.00
+9/30/2020,M-pesa,Water Bill,Nairobi Water,Oct Water Bill,1,500.00
+9/30/2020,M-pesa,Internet and Communication,Safaricom,Oct Internet,1,1900.00
+9/30/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa charges Cash sent to John for Household expenses,1,97.00
+9/30/2020,M-pesa,Rent,Unique Court Landlord,Oct Rent,1,9000.00
+10/01/2020,M-pesa,Food-Non essential,Kiosk,Soda,1,70.00
+10/01/2020,M-pesa,Food-Essential,Kiosk,Bread,1,50.00
+10/01/2020,M-pesa,Food-Essential,Kiosk,Milk,1,20.00
+10/01/2020,M-pesa,Medical,Local Chemist,Birth control,1,200.00
+10/01/2020,M-pesa,Food-Essential,Local Eatery,Fries,1,180.00
+10/01/2020,M-pesa,Friends & Family,Miscellaneous supplier,Donation to Agent for Mum,1,1000.00
+10/01/2020,M-pesa,Food-Essential,Roadside Vendors,Nyanya,2,10.00
+10/01/2020,M-pesa,Food-Essential,Roadside Vendors,Garlic,1,20.00
+10/01/2020,M-pesa,Food-Essential,Roadside Vendors,Onion,3,20.00
+10/01/2020,M-pesa,Food-Essential,Roadside Vendors,Hoho,1,10.00
+10/01/2020,M-pesa,Food-Essential,Roadside Vendors,Dhania,1,10.00
+10/01/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa Charges Cash sent to Zach - Chama,1,97.00
+10/01/2020,M-pesa,Transport,Uber,Uber for Pesh from Kasarani to Imara Daima,1,980.00
+10/02/2020,Card,Food-Non essential,KFC,Krusher,1,290.00
+10/02/2020,M-pesa,Food-Essential,KFC,Wings,1,830.00
+10/02/2020,Card,Other Equipment,Miniso,Nail Cutter,1,459.00
+10/02/2020,Card,Other Equipment,Miniso,Earphones,1,309.00
+10/02/2020,M-pesa,Internet and Communication,Safaricom,Bundles ,1,200.00
+10/02/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa charges KFC,1,23.00
+10/02/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa Charges Replenish Elec Units for shower,1,23.00
+10/03/2020,M-pesa,Medical,Local Chemist,Tums,1,20.00
+10/03/2020,M-pesa,Investment,Miscellaneous supplier,Car track work,1,500.00
+10/03/2020,M-pesa,Food-Essential,Mulleys Transami,White Vinegar,1,85.00
+10/03/2020,M-pesa,Food-Essential,Mulleys Transami,Lactose free milk,1,160.00
+10/03/2020,M-pesa,Food-Essential,Mulleys Transami,Vega Spaghetti,6,450.00
+10/03/2020,M-pesa,Food-Essential,Mulleys Transami,Raisins,1,90.00
+10/03/2020,M-pesa,Food-Essential,Mulleys Transami,Oranges,5,259.00
+10/03/2020,Card,Home Equipment,Mulleys Transami,500ml Cup,1,60.00
+10/03/2020,Card,Home Equipment,Mulleys Transami,Doom Electric Repell refill,1,520.00
+10/03/2020,Card,Food-Essential,Mulleys Transami,Cooking oil 3ltre Salit,1,455.00
+10/03/2020,M-pesa,Food-Essential,Nawiri Kuku Shop,Chicken Thighs 1 kg,1,520.00
+10/03/2020,M-pesa,Food-Essential,Roadside Vendors,Fruits,1,50.00
+10/03/2020,Cash,Other Equipment,Safaricom,Simcard Purchase {Car - track},1,50.00
+10/03/2020,M-pesa,Transport,Uber,Uber from Point Mall To Imara,1,600.00
+10/04/2020,M-pesa,Food-Essential,Butchery,Beef,1,200.00
+10/04/2020,Card,Food-Non essential,Mulleys Transami,Vanilla Ice-cream 1Kg Dairyland,1,380.00
+10/04/2020,Card,Home Equipment,Mulleys Transami,Toilet paper,1,75.00
+10/04/2020,Card,Home Equipment,Mulleys Transami,Toilet paper,1,98.00
+10/04/2020,Card,Food-Essential,Mulleys Transami,Bread,1,49.00
+10/04/2020,Card,Home Equipment,Mulleys Transami,{Special Offer} Baygon Insecticide & Glade Air Freshner,1,270.00
+10/04/2020,M-pesa,Food-Essential,Roadside Vendors,Onions,3,30.00
+10/04/2020,M-pesa,Food-Essential,Roadside Vendors,Nyanya ,3,20.00
+10/04/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+10/04/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+10/05/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+10/05/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+10/05/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+10/05/2020,M-pesa,Cleaning & Laundry Services,House Help,Eunice Cleaning lady,1,528.00
+10/05/2020,M-pesa,Food-Essential,Sam's Fruits,Assortment of Fruits,1,500.00
+10/05/2020,M-pesa,Transport,Public Transport,Sam transport for Fruits,1,140.00
+10/08/2020,Cash,Food-Essential,Roadside Vendors,Eggs,4,44.00
+10/08/2020,Cash,Food-Essential,Roadside Vendors,Onions,2,20.00
+10/08/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+10/08/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+10/08/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+10/08/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,20.00
+10/08/2020,Cash,Food-Essential,Roadside Vendors,Ginger,1,20.00
+10/09/2020,M-pesa,Food-Non essential,Kiosk,Soda,1,180.00
+10/09/2020,M-pesa,Medical,NHIF,NHIF,1,1200.00
+10/09/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa Charges - NHIF ,1,23.00
+10/09/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+10/09/2020,Cash,Food-Essential,Kiosk,Bread,1,50.00
+10/09/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,20.00
+10/09/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+10/09/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,25.00
+10/09/2020,Cash,Food-Essential,Roadside Vendors,Ginger,1,20.00
+10/09/2020,Cash,Food-Essential,Local Eatery,Fries,1,90.00
+10/10/2020,Card,Food-Essential,Mulleys Transami,Peanut Butter,1,180.00
+10/10/2020,Card,Food-Essential,Mulleys Transami,Marmalade,1,246.00
+10/10/2020,Card,Food-Essential,Mulleys Transami,All purpose flour,1,121.00
+10/10/2020,Card,Food-Essential,Mulleys Transami,Imported Oranges,6,300.00
+10/10/2020,M-pesa,Food-Essential,Nawiri Kuku Shop,Chicken 1kg,1,530.00
+10/10/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,20.00
+10/10/2020,M-pesa,Food-Essential,Local Eatery,Fries,1,90.00
+10/13/2020,M-pesa,Food-Essential,Local Eatery,Gold crown Milk(1L),1,160.00
+10/13/2020,M-pesa,Food-Essential,Local Eatery,Jomu Raisins,2,180.00
+10/13/2020,M-pesa,Food-Non essential,Local Eatery,Yoghurt ,1,55.00
+10/13/2020,M-pesa,Food-Non essential,Local Eatery,Crisps,1,90.00
+10/13/2020,Cash,Food-Essential,Roadside Vendors,Ndengu(1kg),1,120.00
+10/13/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,10.00
+10/13/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+10/13/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,10.00
+10/13/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+10/13/2020,Cash,Food-Essential,Roadside Vendors,Chapo,10,100.00
+10/13/2020,M-pesa,Cleaning & Laundry Services,House Help,Eunice Cleaning lady,1,1028.00
+10/12/2020,M-pesa,Transport,Uber,Pesh cab to Imara,1,870.00
+10/14/2020,Cash,Food-Essential,Butchery,Minced meat,1,200.00
+10/14/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,10.00
+10/14/2020,Cash,Food-Essential,Roadside Vendors,Onions,1,10.00
+10/14/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+10/14/2020,M-pesa,Food-Non essential,Roadside Vendors,Soda(1L),1,180.00
+10/14/2020,M-pesa,Medical/Medicine,Local Chemist,Eno,5,100.00
+10/14/2020,M-pesa,Medical/Medicine,Local Chemist,Actal tums,10,100.00
+10/12/2020,M-pesa,Electricity,KPLC,Replenish Elec Units for shower,1,250.00
+10/17/2020,M-pesa,Home Equipment,Mulleys Transami,Matchbox pack,1,31.00
+10/17/2020,M-pesa,Home Equipment,Mulleys Transami,Jumbo Tissue,1,90.00
+10/17/2020,M-pesa,Home Equipment,Mulleys Transami,Candles,1,84.00
+10/17/2020,M-pesa,Food-Non essential,Mulleys Transami,Juice Highlands 5ltre ,1,600.00
+10/17/2020,M-pesa,Food-Essential,Mulleys Transami,Baraka tea,1,220.00
+10/17/2020,M-pesa,Food-Essential,Mulleys Transami,Royco ,1,125.00
+10/17/2020,M-pesa,Food-Essential,Mulleys Transami,Tumeric,1,140.00
+10/17/2020,M-pesa,Food-Essential,Mulleys Transami,Cadbury Drinking Chocolate,1,350.00
+10/17/2020,Cash,Food-Essential,Kiosk,Festive Bread,1,50.00
+10/17/2020,M-pesa,Food-Non essential,Kiosk,Tropical Heat Crisps,2,100.00
+10/17/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+10/17/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+10/18/2020,M-pesa,Food-Essential,Kiosk,Fries ,1,90.00
+10/18/2020,M-pesa,Food-Essential,Local Eatery,Sausages,2,80.00
+10/18/2020,M-pesa,Food-Non essential,Kiosk,Tomato Sauce,1,60.00
+10/18/2020,M-pesa,Food-Non essential,Kiosk,Yoghurt ,1,100.00
+10/18/2020,M-pesa,Home Equipment,Kiosk,Bag ,1,10.00
+10/19/2020,Cash,Food-Essential,Roadside Vendors,Githeri,1,45.00
+10/19/2020,Cash,Food-Essential,Roadside Vendors,avocado,1,30.00
+10/19/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,2,10.00
+10/17/2020,Direct Debit,Internet and Communication,Express VPN,Express VPN Oct - Nov Subscription,1,1471.00
+10/20/2020,M-pesa,Electricity,KPLC,Replenish Elec Units for shower,1,400.00
+10/20/2020,M-pesa,M-pesa Charges,Safaricom,Replenish Elec Units for shower,1,23.00
+10/20/2020,M-pesa,M-pesa Charges,Safaricom,Withdrawal charges,1,28.00
+10/20/2020,M-pesa,Food-Essential,Fryz Inn,Fries,2,180.00
+10/20/2020,M-pesa,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+10/20/2020,M-pesa,Food-Essential,Roadside Vendors,Onions,3,30.00
+10/20/2020,M-pesa,Food-Essential,Roadside Vendors,Hoho,1,10.00
+10/20/2020,M-pesa,Food-Essential,Roadside Vendors,Dhania,1,10.00
+10/20/2020,M-pesa,Food-Essential,Roadside Vendors,Avocado,1,30.00
+10/20/2020,M-pesa,Food-Essential,Mulleys Transami,Gold crown Milk(1L),1,160.00
+10/20/2020,M-pesa,Food-Essential,Mulleys Transami,Bread,1,49.00
+10/20/2020,M-pesa,Food-Non essential,Mulleys Transami,Cadbury Chocolate,1,158.00
+10/20/2020,M-pesa,Food-Non essential,Chicken Inn,Chicken Inn Milkshake,1,250.00
+10/20/2020,Cash,Food-Essential,Butchery,Meat,1,300.00
+10/20/2020,M-pesa,PC Build,Amazon,Team T-FORCE VULCAN Z 16GB 288-Pin DDR4 {Shipped Via Savo Store} {@ $98.99},1,10938.00
+10/20/2020,M-pesa,PC Build,Amazon,Western Digital 500GB WD Blue SN550 NVMe Internal SSD  {Shipped Via Savo Store} {@ $59.99},1,6629.00
+10/20/2020,M-pesa,PC Build,Amazon,"Corsair ML140, 140mm Premium Magnetic Levitation Fan (2-Pack) {Shipped Via Savo Store} {@ $39.99}",1,4419.00
+10/20/2020,M-pesa,PC Build,Savo Store,Service cost {PC Build - RAM SSD & ML140},1,4466.00
+10/20/2020,M-pesa,PC Build,Savo Store,Shipping cost {PC Build - RAM SSD & ML140},1,3825.00
+10/07/2020,M-pesa,Friends & Family,Miscellaneous supplier,Support to purchase new stock for shop {Mama Pesh},1,20000.00
+10/21/2020,Cash,Personal Care,Roadside Vendors,Toothbrush for Purity,1,50.00
+10/21/2020,Cash,Food-Essential,Roadside Vendors,Garlic,1,20.00
+10/21/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+10/21/2020,Cash,Food-Essential,Roadside Vendors,Chapo,10,100.00
+10/22/2020,Cash,Food-Essential,Kiosk,Eggs,10,110.00
+10/22/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,6,20.00
+10/23/2020,Cash,Food-Essential,Kiosk,Bread,1,50.00
+10/23/2020,Cash,Food-Essential,Roadside Vendors,Yoghurt ,1,65.00
+10/23/2020,Cash,Food-Essential,Roadside Vendors,Onioms,2,10.00
+10/23/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+10/25/2020,M-pesa,PC Build,Amazon,MSI X570 Gaming Edge Wifi Motherboard {Shipped Via Savo Store} {@ $206.99},1,22872.00
+10/25/2020,M-pesa,PC Build,Savo Store,{Service Cost} - MSI X570 Gaming Edge Wifi Motherboard {Shipped Via Savo Store} {@ $206.99},1,4614.00
+10/25/2020,M-pesa,PC Build,Savo Store,{Shipping Cost} - MSI X570 Gaming Edge Wifi Motherboard {Shipped Via Savo Store} {@ $206.99},1,3481.00
+10/24/2020,M-pesa,Food-Essential,Nawiri Kuku Shop,Chicken - 1.1kg,1,608.00
+10/24/2020,Cash,Food-Essential,Roadside Vendors,Cabbage,1,20.00
+10/24/2020,Cash,Food-Essential,Roadside Vendors,Carrots,1,20.00
+10/25/2020,M-pesa,Food-Essential,Butchery,Meat,1,200.00
+10/25/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,1,10.00
+10/25/2020,Cash,Food-Essential,Roadside Vendors,Avocado,1,20.00
+10/25/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+10/25/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+10/25/2020,M-pesa,Food-Essential,Sam's Fruits,Fruits,1,640.00
+10/24/2020,M-pesa,Home Equipment,Kiosk,Knife File,1,200.00
+10/24/2020,M-pesa,Electricity,KPLC,Replenish Elec Units for shower,1,150.00
+10/20/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa charges- Eunice,1,23.00
+10/24/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa charges- Replenishing units,1,26.00
+10/22/2020,Direct Debit,Entertainment,Amazon,Amazon charge @5.99 USD,1,660.00
+10/26/2020,M-pesa,Personal Care,Miniso,Dental Floss- Mint Flavor,1,309.00
+10/26/2020,M-pesa,Home Equipment,Miniso,Colorful Sealing clips,1,319.00
+10/26/2020,M-pesa,Food-Essential,Mulleys Transami,Gold crown Milk(1L),1,160.00
+10/26/2020,M-pesa,Food-Essential,Mulleys Transami,Yoghurt ,1,100.00
+10/26/2020,M-pesa,Food-Non essential,Mulleys Transami,Honey,1,350.00
+10/26/2020,M-pesa,Food-Essential,Mulleys Transami,Indomie  5 pack,2,200.00
+10/27/2020,M-pesa,Food-Essential,Fryz Inn,2 Pack of Fries With Salad,2,180.00
+10/27/2020,M-pesa,Food-Non essential,Fryz Inn,Paper Bag,1,10.00
+10/28/2020,M-pesa,PC Build,Best Buy,CORSAIR - HS70 PRO Wireless Stereo Gaming Headset - Cream - Shipped Via Savo Store ($79.99),1,11049.00
+10/28/2020,M-pesa,PC Build,Savo Store,{Service Cost } - CORSAIR - HS70 PRO Wireless Stereo Gaming Headset - Cream - Shipped Via Savo Store,1,2245.00
+10/28/2020,M-pesa,PC Build,Savo Store,{Shipping Cost } - CORSAIR - HS70 PRO Wireless Stereo Gaming Headset - Cream - Shipped Via Savo Store,1,1914.00
+10/29/2020,M-pesa,Electricity,KPLC,Replenish Elec Units for shower,1,200.00
+10/29/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa Charges For replenishing power,1,23.00
+10/29/2020,M-pesa,Food-Non essential,Kiosk,Blueband Peanut butter,1,190.00
+10/29/2020,M-pesa,Food-Essential,Kiosk,Supa Loaf Bread,1,50.00
+10/29/2020,M-pesa,Food-Essential,Kiosk,Eggs,10,12.00
+10/29/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+10/29/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,10.00
+10/29/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+10/29/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,10.00
+10/30/2020,M-pesa,Electricity,KPLC,Electricity,1,400.00
+10/30/2020,M-pesa,M-pesa Charges,Safaricom,Mpesa charges for buying elec,1,23.00
+10/30/2020,Cash,Food-Essential,Butchery,Meat,1,200.00
+10/30/2020,Cash,Food-Essential,Roadside Vendors,Chapo,10,100.00
+10/30/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+10/30/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,5.00
+10/30/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+10/30/2020,M-pesa,M-pesa Charges,Safaricom,Withdrawal charges,1,28.00
+10/30/2020,M-pesa,Electricity,KPLC,Nov Elec,1,1000.00
+10/30/2020,M-pesa,Water Bill,Nairobi Water,Nov Water Bill,1,500.00
+10/30/2020,M-pesa,Internet and Communication,Safaricom,Nov Internet,1,1900.00
+10/30/2020,M-pesa,Rent,Unique Court Landlord,Nov Rent,1,9000.00
+10/31/2020,M-pesa,Food-Essential,Mulleys Transami,Tea Masala,1,105.00
+10/31/2020,M-pesa,Food-Essential,Mulleys Transami,Royco Tomato and Ginger- 200g,1,125.00
+10/31/2020,M-pesa,Food-Essential,Mulleys Transami,Natures Own Garam Masala,1,195.00
+10/31/2020,M-pesa,Food-Non essential,Mulleys Transami,Cadbury Lunch Bar,1,94.00
+10/31/2020,Card,Home Equipment,Mulleys Transami,Toilex Jumbo,1,90.00
+10/31/2020,Card,Personal Care,Mulleys Transami,Deodrant- Aris Reborn,1,279.00
+10/31/2020,Card,Home Equipment,Mulleys Transami,Jik bleach for color,1,150.00
+10/31/2020,Card,Personal Care,Mulleys Transami,Ear buds- Flora,1,95.00
+10/31/2020,Card,Home Equipment,Mulleys Transami,Detergent- Ariel,1,294.00
+10/31/2020,M-pesa,Food-Essential,KFC,Krusher,1,290.00
+10/31/2020,M-pesa,Food-Essential,Fryz Inn,Fries,2,180.00
+10/31/2020,M-pesa,Food-Essential,Fryz Inn,Sausage,1,40.00
+10/31/2020,M-pesa,Entertainment,KPLC,Replenish Elec Units for shower,1,250.00
+10/31/2020,M-pesa,M-pesa Charges,Safaricom,Charges for replenishing electricity,1,23.00
+10/31/2020,M-pesa,Medical/Medicine,Local Chemist,Pregnancy Tests,2,100.00
+10/31/2020,M-pesa,Medical/Medicine,Local Chemist,Eno,5,100.00
+11/01/2020,Card,Entertainment,DC Comics,Superman Comic #702 & #703 @0.99 USD,2,220.00
+10/30/2020,Card,Entertainment,Netflix,Netflix subscription,1,1200.00
+11/01/2020,M-pesa,PC Build,Best Buy,AMD - Ryzen 5 3600X 3rd Generation 6-Core - 12-Thread @244.99,1,27071.00
+11/01/2020,M-pesa,PC Build,Savo Store,{Service Cost} - AMD - Ryzen 5 3600X 3rd Generation 6-Core - 12-Thread,1,5330.00
+11/01/2020,M-pesa,PC Build,Savo Store,{Shipping Cost} - AMD - Ryzen 5 3600X 3rd Generation 6-Core - 12-Thread,1,2115.00
+11/01/2020,Cash,Food-Essential,Kiosk,Eggs,10,120.00
+11/01/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+11/01/2020,Cash,Food-Essential,Roadside Vendors,Onions,3,20.00
+11/01/2020,Cash,Food-Non essential,Roadside Vendors,Hoho,1,10.00
+11/01/2020,Cash,Food-Non essential,Mulleys Transami,Tropical Heat Crisps,1,90.00
+11/01/2020,Cash,Food-Non essential,Mulleys Transami,Peptang Tomato Sauce,1,120.00
+11/01/2020,Cash,Food-Non essential,Mulleys Transami,Cadbury Lunch Bar Max,1,118.00
+11/02/2020,M-pesa,Food-Non essential,Kiosk,Soda-2L,1,180.00
+11/02/2020,Cash,Food-Essential,Kiosk,Supa loaf Bread,1,50.00
+11/02/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,4,20.00
+11/02/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+11/03/2020,Cash,Food-Essential,Roadside Vendors,Onions,2,10.00
+11/03/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+11/03/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+11/03/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+11/04/2020,Cash,Food-Essential,Roadside Vendors,Githeri,4,60.00
+11/04/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+11/04/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+11/04/2020,M-pesa,M-pesa Charges,Safaricom,Withdrawal charges,1,27.00
+11/04/2020,M-pesa,Cleaning & Laundry Services,House Help,Eunice Cleaning lady,1,530.00
+11/04/2020,M-pesa,M-pesa Charges,Safaricom,Sending charges,1,27.00
+11/05/2020,M-pesa,Food-Essential,Roadside Vendors,Eggs,10,110.00
+11/05/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+11/05/2020,Cash,Food-Essential,Roadside Vendors,Onions,2,10.00
+11/05/2020,Cash,Food-Essential,Roadside Vendors,Pineapple slice,1,20.00
+11/06/2020,M-pesa,Food-Essential,Flamegrill,Pizza,1,1100.00
+11/05/2020,M-pesa,Food-Essential,Savanna,Coffee,1,250.00
+11/05/2020,M-pesa,Food-Essential,Roadside Vendors,Mandazi,2,20.00
+11/06/2020,M-pesa,Electricity,KPLC,Replenish Elec Units for shower,1,250.00
+11/06/2020,M-pesa,M-pesa Charges,Safaricom,charges for replenishing electricity,1,23.00
+11/06/2020,M-pesa,Skin Care & Hair Care,Savo Store,Delivery charges for package,1,280.00
+11/07/2020,M-pesa,Food-Non essential,Mulleys Transami,Tropikal Juice 5 Ltres,1,600.00
+11/07/2020,M-pesa,Food-Essential,Kiosk,Peanut Butter 800g BB,1,650.00
+11/07/2020,M-pesa,Transport,Uber,Uber for Pesh to Kasa,1,630.00
+11/06/2020,M-pesa,Food-Non essential,Kiosk,Soda-2L,1,180.00
+11/06/2020,Cash,Food-Essential,Kiosk,Supa loaf Bread,1,50.00
+11/09/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+11/09/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+11/09/2020,Cash,Food-Essential,Roadside Vendors,Onion,2,20.00
+11/09/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,10.00
+11/11/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,3,20.00
+11/11/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+11/11/2020,Cash,Food-Essential,Roadside Vendors,Onion,2,20.00
+11/11/2020,Cash,Food-Essential,Local Eatery,Lunch while at the DC {Ugali Nyama},1,100.00
+11/11/2020,M-pesa,Friends & Family,Miscellaneous supplier,Loan To Susan,1,2500.00
+11/09/2020,Cash,Food-Essential,Roadside Vendors,Beans,3,45.00
+11/13/2020,M-pesa,Friends & Family,Zuku,Internet For Pesh Fam,1,2500.00
+11/14/2020,Cash,Food-Essential,Roadside Vendors,Nyanya,6,40.00
+11/14/2020,Cash,Food-Essential,Roadside Vendors,Dhania,1,5.00
+11/14/2020,Cash,Food-Essential,Roadside Vendors,Hoho,1,5.00
+11/14/2020,Cash,Food-Essential,Roadside Vendors,Onion,1,5.00
+11/14/2020,M-pesa,Food-Essential,Kiosk,Beans 1kg,1,120.00
+11/14/2020,M-pesa,Food-Non essential,Kiosk,Popcorn Seeds 1kg,1,180.00
+11/14/2020,M-pesa,Food-Essential,Kiosk,Bread,1,50.00
+11/14/2020,M-pesa,Food-Non essential,Kiosk,Dates,1,120.00
+11/14/2020,M-pesa,Food-Essential,Kiosk,Eggs 10,1,110.00
+11/15/2020,Cash,Food-Essential,Roadside Vendors,Grapes,1,250.00
+11/15/2020,M-pesa,Food-Essential,Mulleys Transami,Spaghetti,1,150.00
+11/15/2020,M-pesa,Food-Essential,Mulleys Transami,Milk,1,160.00
+11/15/2020,M-pesa,Home Equipment,Mulleys Transami,Mosquito Elec,1,520.00
+11/15/2020,M-pesa,Food-Essential,Local Eatery,Fries & Sausage,1,130.00
+11/16/2020,Cash,Food-Essential,Roadside Vendors,Chapo,10,100.00
+11/16/2020,Cash,Food-Essential,Kiosk,Bread,1,50.00

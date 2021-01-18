@@ -1,0 +1,89 @@
+/* html {
+  width: 100% !important;
+  min-height: 100% !important;
+  min-width: 100% !important;
+  overflow-x: hidden !important;
+} */
+
+body {
+  background: #1f2630;
+}
+
+.dropdowns {
+  width: 50%;
+}
+
+#filters > div {
+  margin: 16px;
+}
+
+#daterange-picker div.DateInput {
+  /* color: inherit !important; */
+  width: 90px !important;
+}
+
+#months-dropdown {
+  width: 100% !important;
+  font-size: 15px;
+}
+#years-dropdown {
+  width: 100% !important;
+  font-size: 15px;
+}
+
+/* #daterange-picker .DateRangePickerInput {
+  padding-right: 0px !important;
+} */
+
+/* dropdown colors */
+#months-dropdown span.Select-value-label {
+  color: #7fafdf;
+}
+
+#months-dropdown div.Select-placeholder {
+  color: #7fafdf;
+}
+
+#years-dropdown span.Select-value-label {
+  color: #7fafdf;
+}
+
+#years-dropdown div.Select-placeholder {
+  color: #7fafdf;
+}
+
+#daterange-picker .DateRangePickerInput {
+  width: 100% !important;
+  border-radius: 3px;
+  background: #1f2630;
+}
+#daterange-picker input.DateInput_input {
+  background: #1f2630;
+  color: #7fafdf;
+  padding: 5px;
+  width: 100% !important;
+  font-size: 15px;
+  height: 34px;
+}
+
+#daterange-picker input.DateInput_input::placeholder {
+  color: #7fafdf;
+}
+
+#daterange-picker svg.DateRangePickerInput_arrow_svg {
+  fill: #7fafdf;
+  height: 15px !important;
+  width: 15px !important;
+}
+
+#daterange-picker svg.DateRangePickerInput_clearDates_svg {
+  padding: 0px !important;
+  margin: 0px !important;
+}
+#suppliers-dropdown div.Select-placeholder {
+  color: #7fafdf;
+}
+
+#groupdesc-dropdown div.Select-placeholder {
+  color: #7fafdf;
+}
