@@ -8,8 +8,6 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 # Load Data
 
-
-
 df = pd.read_csv("Expenses_Input.csv")
 
 df.head()
